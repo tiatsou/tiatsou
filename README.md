@@ -1,6 +1,6 @@
 :octocat: Hi, I’m Der-Hsuan Tsou. You can also call me Tia if it is easiler for you.
 
-⭐ I’m interested in data anaytics, business analytics and data visualing to let your data tell a different story.
+⭐ I’m interested in data anaytics, business analytics, data visualing and machinf learning to let your data tell a different story.
 
 💻 I recently earned the certificate for Google Data Analytics Specialization. And I am currently learning Spark computing.
 
