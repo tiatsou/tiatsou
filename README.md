@@ -1,6 +1,6 @@
 :octocat: Hi, there! Der-Hsuan Tsou can also go by Tia if it is easiler for you.
 
-⭐ Der-Hsuan is interested in data anaytics, business analytics, data visualing and machinf learning to let your data tell a different story.
+⭐ Der-Hsuan is interested in data anaytics, business analytics, data visualing and maching learning to let your data tell a different story.
 
 💻 Der-Hsuan recently earned the certificate for Google Data Analytics Specialization. And she is currently learning Spark computing.
 
