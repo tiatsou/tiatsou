@@ -2,7 +2,7 @@
 
 ⭐ Der-Hsuan is interested in data anaytics, business analytics, data visualing and maching learning to let your data tell a different story.
 
-💻 Der-Hsuan recently earned her certificate for the Google Data Analytics Specialization. And she is currently learning Spark computing.
+💻 Der-Hsuan received her MS in Data Science and Business Analytics and she is currently learning Spark computing.
 
 💼 Der-Hsuan is looking for a Data Scientist/ Analyst related full-time job in the US and open to relocate.
 
