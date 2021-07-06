@@ -2,9 +2,9 @@
 
 ⭐ Der-Hsuan is interested in data anaytics, business analytics, data visualing and maching learning to let your data tell a different story.
 
-💻 Der-Hsuan received her MS in Data Science and Business Analytics and she is currently learning Spark computing.
+💻 Der-Hsuan received her MS in Data Science and Business Analytics from the Uniersity of North Carolina at Charlotte.
 
-💼 Der-Hsuan is looking for a Data Scientist/ Analyst related full-time job in the US and open to relocate.
+💼 Der-Hsuan is looking for a Data Science/ Analysis related full-time job in the US and open to relocate.
 
 📌 You can reach out to Der-Hsuan by clicking her [LinkedIn profile](https://www.linkedin.com/in/derhsuan-tsou/) and shoot her a message. She will be very glad to hear from you!
 
