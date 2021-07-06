@@ -2,7 +2,7 @@
 
 ⭐ Der-Hsuan is interested in data anaytics, business analytics, data visualing and maching learning to let your data tell a different story.
 
-💻 Der-Hsuan received her MS in Data Science and Business Analytics from the Uniersity of North Carolina at Charlotte.
+💻 Der-Hsuan received her MS in Data Science and Business Analytics from the University of North Carolina at Charlotte.
 
 💼 Der-Hsuan is looking for a Data Science/ Analysis related full-time job in the US and open to relocate.
 
