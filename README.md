@@ -8,7 +8,7 @@
 
 📌 You can reach out to Der-Hsuan by clicking her [LinkedIn profile](https://www.linkedin.com/in/derhsuan-tsou/) and shoot her a message. She will be very glad to hear from you!
 
-🔉 Follow the [link](https://www.name-coach.com/der-hsuan-tsou) to hear the pronunciation of Der-Hsuan Tsou(der-xuan zou). 
+🔉 Follow the [link](https://www.name-coach.com/der-hsuan-tsou) to hear the pronunciation of Der-Hsuan Tsou(der-xuan zou(zoh)). 
 
 <!---
 tiatsou/tiatsou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
