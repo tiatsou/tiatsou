@@ -1,6 +1,6 @@
 :octocat: Hi, there! Der-Hsuan Tsou can also go by Tia if it is easiler for you.
 
-⭐ Der-Hsuan is interested in data anaytics, business analytics, data visualization and maching learning to let your data tell a different story.
+⭐ Der-Hsuan is interested in data anaytics, business analytics, visualization and maching learning to let your data tell a different story.
 
 💻 Der-Hsuan received her MS in Data Science and Business Analytics from the University of North Carolina at Charlotte.
 
