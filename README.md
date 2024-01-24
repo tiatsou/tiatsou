@@ -1,4 +1,4 @@
-:octocat: Hi, there! Der-Hsuan Tsou can also go by Tia if it is easiler for you.
+:octocat: Hi, there! Der-Hsuan Tsou can also go by Tia (It's easiler to pronouce... Trust me!)
 
 ⭐ Der-Hsuan is interested in data anaytics, business analytics, visualization and maching learning to let your data tell a different story.
 
